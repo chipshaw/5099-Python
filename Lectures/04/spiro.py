@@ -42,7 +42,7 @@ def dodrawing():
 def main():    
     wn = turtle.Screen()
     wn.bgcolor('black')
-    a = wn.textinput("NIM", "Name of first player:")
+    #a = wn.textinput("NIM", "Name of first player:")
     dodrawing()
     wn.mainloop()
     turtle.bye()

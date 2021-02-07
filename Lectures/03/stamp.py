@@ -9,7 +9,7 @@ tess = turtle.Turtle()
 tess.color("blue")
 tess.shape("turtle")
 
-print(list(range(5, 60, 2)))
+#print(list(range(5, 60, 2)))
 
 tess.up()                       # this is new
 
